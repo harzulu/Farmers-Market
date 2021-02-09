@@ -1,70 +1,89 @@
-# Getting Started with Create React App
+# <div align="center">Farmer's Market</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+    <br>
+    <a href="https://github.com/Harzulu">
+        <img src="https://avatars3.githubusercontent.com/u/55816973?s=460&u=46b7375105009121ce5ce53643553fef0ba2be14&v=4" width="150px" height="auto">
+    </a>
+    <a href="https://github.com/">
+        <img src="" width="150px" height="auto">
+    </a>
+</p>
 
-## Available Scripts
+<p align="center">
+  <small>Last Updated: February 9th, 2021</small>
+</p>
 
-In the project directory, you can run:
+# ℹ️ Description
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# 📸 Demonstration
 
-### `npm test`
+<img src="" alt="gif of page">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🎯 MVP User Stories / Stretch Goal
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# 🧑‍💻 Contributers
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| Name | GitHub Profile |
+|------|----------------|
+| [Ben McFarland](https://www.linkedin.com/in/benjamin-mcf/) | [Harzulu](https://github.com/harzulu)|
+| [](https://www.linkedin.com/in//) | [](https://github.com/) |
 
-### `npm run eject`
+# ⚙️ Technologies Used
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* <a href="https://code.visualstudio.com/">Microsoft Visual Studio Code</a>
+* <a href="https://github.com/">Git/GitHub</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS">CSS</a>
+* <a href="https://getbootstrap.com/">Bootstrap</a>
+* <a href="https://jquery.com/">jQuery</a>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# 💾 Installation Requirements
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## For Both Mac & Windows systems
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+#### To Clone:
+- Open your preferred command line program.
+- Navigate to the location or directory you'd like the project directory to be created in. (e.g., "cd Desktop" if you'd like to clone the project to your desktop)
+- Enter the command "$ git clone https://github.com//" in your command line.
 
-## Learn More
+#### To Download:
+- Navigate to the [project repository](https://github.com//) in your browser.
+- Click the green "Code" button toward the top right of the page.
+- Click "Download ZIP" and extract the files.
+- Open the newly-downloaded project in your preferred code editor.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+# 🖥️ Opening the Project on your Local System
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Once the project has been cloned and you have all the necessary items on your local computer, open the project in the application of your choice (<a href="https://code.visualstudio.com/">Visual Code Studio</a> was used and is recommended by the application builder)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+### Run the project:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# ☎️ Support / Contact Details
 
-### Deployment
+* [Ben McFarland](mailto:benrmcfarland@gmail.com)
+* [](@.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+# 🐛 Bugs / Issues
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+| Date | Error | Handled | Solution |
+| :------------- | :------------- | :------------- | :------------- |
+|  |  | ✅  |  |
+
+
+
+# ©️ License & Copyright
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Copyright (c) 2021 *_Ben McFarland, _*
