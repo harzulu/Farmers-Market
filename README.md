@@ -5,6 +5,8 @@
     <a href="https://github.com/Harzulu">
         <img src="https://avatars3.githubusercontent.com/u/55816973?s=460&u=46b7375105009121ce5ce53643553fef0ba2be14&v=4" width="150px" height="auto">
     </a>
+    <a href="https://github.com/besscampbell">
+        <img src="https://github.com/besscampbell.png" width="150px" height="auto">
     <a href="https://github.com/">
         <img src="" width="150px" height="auto">
     </a>
@@ -16,30 +18,35 @@
 
 # ℹ️ Description
 
+ Pair project for Epicodus using React.
+ Avery's Organics is a mid-sized farm in Northern Oregon that grows organic produce and sells it at farmers markets throughout town. Since Avery's is at a different market almost every day, they've started a website to show customers which market they will be at on a given day.
+
+Avery's also grows different crops in different seasons. They'd like to display what produce is available during which months on their site too.
+
+Using React and all other tools we've covered so far, create a website that depicts this information. The data you'll use is in the Cheat Sheet section of this lesson. Also, take time to construct your entire environment from scratch. It's important to practice these fundamentals before we increase the complexity of our projects later this week!
+
+Try using local state to toggle between different days. Note that we can use conditional rendering for as many conditions as we want - including all seven days of the week!
+
+Once again, make sure to plan your application first and include a component diagram in your README.
 
 
 # 📸 Demonstration
 
-<img src="" alt="gif of page">
-
-## 🎯 MVP User Stories / Stretch Goal
-
-
+<img src="https://i.ibb.co/JHGbDVV/Screen-Shot-2021-02-09-at-9-44-03-AM.png" alt="picture of diagram">
 
 # 🧑‍💻 Contributers
 
 | Name | GitHub Profile |
 |------|----------------|
 | [Ben McFarland](https://www.linkedin.com/in/benjamin-mcf/) | [Harzulu](https://github.com/harzulu)|
-| [](https://www.linkedin.com/in//) | [](https://github.com/) |
-
+| [Bess Campbelll](https://www.linkedin.com/in/bess-campbell/) | [besscampbell](https://github.com/besscampbell)
 # ⚙️ Technologies Used
 
 * <a href="https://code.visualstudio.com/">Microsoft Visual Studio Code</a>
 * <a href="https://github.com/">Git/GitHub</a>
+* <a href="https://reactjs.org/">ReactJS</a>
 * <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS">CSS</a>
 * <a href="https://getbootstrap.com/">Bootstrap</a>
-* <a href="https://jquery.com/">jQuery</a>
 
 # 💾 Installation Requirements
 
@@ -71,7 +78,7 @@ Once the project has been cloned and you have all the necessary items on your lo
 # ☎️ Support / Contact Details
 
 * [Ben McFarland](mailto:benrmcfarland@gmail.com)
-* [](@.com)
+* [Bess Campbell](bess.k.campbell@gmail.com)
 
 
 # 🐛 Bugs / Issues
@@ -86,4 +93,4 @@ Once the project has been cloned and you have all the necessary items on your lo
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2021 *_Ben McFarland, _*
+Copyright (c) 2021 *_Ben McFarland, Bess Cammpbell_*
